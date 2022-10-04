@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns="http://purl.org/rss/1.0/">
+  <channel rdf:about="https://response.jp/">
+    <title>レスポンス</title>
+    <link>https://response.jp/</link>
+    <description>自動車最速ニュースサイト</description>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362519.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362518.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362517.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362516.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362515.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362514.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362513.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362512.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362511.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362510.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362509.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362508.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362507.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362506.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362505.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362504.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362503.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362502.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362501.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362500.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362499.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362498.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362497.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362496.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362495.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362494.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362493.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362492.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362491.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362490.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362489.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362488.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362487.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362486.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362485.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362484.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362483.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362482.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362481.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362480.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362479.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362478.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362477.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/04/362476.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/03/362475.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/03/362474.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/03/362473.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/03/362472.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/03/362471.html" />
+        <rdf:li rdf:resource="https://response.jp/article/2022/10/03/362470.html" />
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://response.jp/article/2022/10/04/362519.html">
+    <title>スズキ、バーグマンストリート125EX 新型を世界初公開…インターモト2022</title>
+    <link>https://response.jp/article/2022/10/04/362519.html</link>
+    <dc:date>2022-10-04T09:30:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362518.html">
+    <title>キャンピングカーの自作や改造を支援、「シェアガレージ」が横浜市に誕生</title>
+    <link>https://response.jp/article/2022/10/04/362518.html</link>
+    <dc:date>2022-10-04T09:00:03Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362517.html">
+    <title>アイシン・人事情報　2022年10月1日付</title>
+    <link>https://response.jp/article/2022/10/04/362517.html</link>
+    <dc:date>2022-10-04T08:30:05Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362516.html">
+    <title>CO2を出さない「水素調理」、トヨタとリンナイが共同開発を開始</title>
+    <link>https://response.jp/article/2022/10/04/362516.html</link>
+    <dc:date>2022-10-04T08:15:03Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362515.html">
+    <title>11/23申込締切【学生向けオンラインセミナー】自動車業界で働くってどういうこと？～業界の外と内～</title>
+    <link>https://response.jp/article/2022/10/04/362515.html</link>
+    <dc:date>2022-10-04T08:00:05Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362514.html">
+    <title>関空特急『はるか』も所定運行へ…ライバルの南海50000系は泉北高速鉄道直通特急にも　11月1日</title>
+    <link>https://response.jp/article/2022/10/04/362514.html</link>
+    <dc:date>2022-10-04T07:45:03Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362513.html">
+    <title>KYB・人事情報　 2022年10月1日付</title>
+    <link>https://response.jp/article/2022/10/04/362513.html</link>
+    <dc:date>2022-10-04T07:30:05Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362512.html">
+    <title>通勤と市内移動の2種類のオンデマンド交通…石狩市で実証運行へ</title>
+    <link>https://response.jp/article/2022/10/04/362512.html</link>
+    <dc:date>2022-10-04T07:25:02Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362511.html">
+    <title>自動運転バスとドローンの連携で物流最適化　2023年度の実用化めざす</title>
+    <link>https://response.jp/article/2022/10/04/362511.html</link>
+    <dc:date>2022-10-04T07:15:03Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362510.html">
+    <title>マセラティ『グラントゥーリズモ』新型に「トロフェオ」、V6ツインターボは550馬力</title>
+    <link>https://response.jp/article/2022/10/04/362510.html</link>
+    <dc:date>2022-10-04T07:00:01Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362509.html">
+    <title>トヨタ米国販売、『GR 86』が9倍以上の伸び　2022年1-9月</title>
+    <link>https://response.jp/article/2022/10/04/362509.html</link>
+    <dc:date>2022-10-04T06:55:03Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362508.html">
+    <title>自動車株はそろって続伸、NYではテスラが急落</title>
+    <link>https://response.jp/article/2022/10/04/362508.html</link>
+    <dc:date>2022-10-04T06:45:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362507.html">
+    <title>「遅さ」を極めた電動化？「電気でこそやれること」から生まれた“最高に遅い船”の付加価値とは</title>
+    <link>https://response.jp/article/2022/10/04/362507.html</link>
+    <dc:date>2022-10-04T06:30:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362506.html">
+    <title>ダブル連結トラックが通行できる道路を5000km超に拡充へ</title>
+    <link>https://response.jp/article/2022/10/04/362506.html</link>
+    <dc:date>2022-10-04T06:15:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362505.html">
+    <title>最初にしてはかなり高いレベル…日産 マーチ ニスモ 前編［カーオーディオ ニューカマー］</title>
+    <link>https://response.jp/article/2022/10/04/362505.html</link>
+    <dc:date>2022-10-04T06:00:06Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362504.html">
+    <title>事業費が膨らむ北海道新幹線札幌延伸…新たな対応を迫られるトンネル工事</title>
+    <link>https://response.jp/article/2022/10/04/362504.html</link>
+    <dc:date>2022-10-04T05:45:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362503.html">
+    <title>最高出力320ps、ゴルフR/ゴルフRヴァリアント新型発売…価格は639万8000円より</title>
+    <link>https://response.jp/article/2022/10/04/362503.html</link>
+    <dc:date>2022-10-04T05:30:05Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362502.html">
+    <title>マツダ米国販売、CX-50 が良好な立ち上がり　2022年1-9月</title>
+    <link>https://response.jp/article/2022/10/04/362502.html</link>
+    <dc:date>2022-10-04T05:15:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362501.html">
+    <title>スバル米国販売、クロストレックは14％増　2022年1-9月</title>
+    <link>https://response.jp/article/2022/10/04/362501.html</link>
+    <dc:date>2022-10-04T05:00:05Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362500.html">
+    <title>スバルが取り組むデジタルツイン開発「IVX-D」…Ansys Simulation World 2022 Japan</title>
+    <link>https://response.jp/article/2022/10/04/362500.html</link>
+    <dc:date>2022-10-04T04:30:03Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362499.html">
+    <title>夜間に強いSTARVIS搭載、前後2カメラドラレコの指定店向けモデル発売　ユピテル</title>
+    <link>https://response.jp/article/2022/10/04/362499.html</link>
+    <dc:date>2022-10-04T04:15:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362498.html">
+    <title>「eアクスル」はここまで進化する…アイシンの第3世代eアクスルを体感して見えた電動化の未来</title>
+    <link>https://response.jp/article/2022/10/04/362498.html</link>
+    <dc:date>2022-10-04T04:00:01Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362497.html">
+    <title>マセラティ『グラントゥーリズモ』新型、内燃エンジン車「モデナ」は490馬力…欧州発表</title>
+    <link>https://response.jp/article/2022/10/04/362497.html</link>
+    <dc:date>2022-10-04T03:51:19Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362496.html">
+    <title>より良い室内環境を…ベントレーが「アズール」仕様をベンテイガPHEVに設定　欧州</title>
+    <link>https://response.jp/article/2022/10/04/362496.html</link>
+    <dc:date>2022-10-04T03:30:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362495.html">
+    <title>ケータハムの魅力的な車たち…究極のライトウェイトスポーツ［まとめ］</title>
+    <link>https://response.jp/article/2022/10/04/362495.html</link>
+    <dc:date>2022-10-04T03:15:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362494.html">
+    <title>ネクセンタイヤ WINGUARD ice2「ビッグブランドと肩を並べる存在」…プロカメラマンがネクセンのスタッドレスを履く</title>
+    <link>https://response.jp/article/2022/10/04/362494.html</link>
+    <dc:date>2022-10-04T03:00:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362493.html">
+    <title>マセラティ初のEVは760馬力、『グラントゥーリズモ』新型に「フォルゴーレ」…欧州発表</title>
+    <link>https://response.jp/article/2022/10/04/362493.html</link>
+    <dc:date>2022-10-04T02:30:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362492.html">
+    <title>アウディ R8、V10エンジン＋後輪駆動クーペの最終モデル「GT」…620馬力に強化</title>
+    <link>https://response.jp/article/2022/10/04/362492.html</link>
+    <dc:date>2022-10-04T02:15:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362491.html">
+    <title>クアルコムの次世代E/Eアーキテクチャ「デジタルシャーシ」のインパクト…Automotive Investor Day</title>
+    <link>https://response.jp/article/2022/10/04/362491.html</link>
+    <dc:date>2022-10-04T02:00:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362490.html">
+    <title>【川崎大輔の流通大陸】自動車整備分野の特定技能外国人、鈑金塗装業界へも拡大</title>
+    <link>https://response.jp/article/2022/10/04/362490.html</link>
+    <dc:date>2022-10-04T01:45:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362489.html">
+    <title>アウトドアやガレージで存在感を放つおしゃれ雑貨をピックアップ！【特選カーアクセサリー名鑑】</title>
+    <link>https://response.jp/article/2022/10/04/362489.html</link>
+    <dc:date>2022-10-04T01:15:02Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362488.html">
+    <title>充電インフラ初期費用無料、社用車EV化を支援するサービス…日本駐車場開発×テラモーターズが開始</title>
+    <link>https://response.jp/article/2022/10/04/362488.html</link>
+    <dc:date>2022-10-04T01:00:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362487.html">
+    <title>日本最大級の中古車リースサイト開設、5000台以上から選べる</title>
+    <link>https://response.jp/article/2022/10/04/362487.html</link>
+    <dc:date>2022-10-04T00:45:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362486.html">
+    <title>無償運送バスなど、停留所の駐停車禁止対象から除外</title>
+    <link>https://response.jp/article/2022/10/04/362486.html</link>
+    <dc:date>2022-10-04T00:39:11Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362485.html">
+    <title>アルコール検知システムと鍵管理システム連携でインターロックを提供</title>
+    <link>https://response.jp/article/2022/10/04/362485.html</link>
+    <dc:date>2022-10-04T00:32:20Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362484.html">
+    <title>内定者がサーキットで応援、スバルグループがSUPER GTに合わせて内定式</title>
+    <link>https://response.jp/article/2022/10/04/362484.html</link>
+    <dc:date>2022-10-04T00:11:38Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362483.html">
+    <title>薄日が差し込む国内新車販売、9月は15か月ぶり増加［新聞ウォッチ］</title>
+    <link>https://response.jp/article/2022/10/04/362483.html</link>
+    <dc:date>2022-10-03T23:54:52Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362482.html">
+    <title>軽自動車新車販売、3年連続のマイナス　2022年度上半期</title>
+    <link>https://response.jp/article/2022/10/04/362482.html</link>
+    <dc:date>2022-10-03T23:30:05Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362481.html">
+    <title>BMWの新型電動セダン『i5』、エントリーモデルの車名が意外なところから判明？</title>
+    <link>https://response.jp/article/2022/10/04/362481.html</link>
+    <dc:date>2022-10-03T23:00:05Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362480.html">
+    <title>レクサス米国販売16％減、2年ぶりに減少　2022年1-9月</title>
+    <link>https://response.jp/article/2022/10/04/362480.html</link>
+    <dc:date>2022-10-03T22:45:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362479.html">
+    <title>モデリスタ、カローラシリーズ用各種カスタマイズアイテムを発売</title>
+    <link>https://response.jp/article/2022/10/04/362479.html</link>
+    <dc:date>2022-10-03T22:15:03Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362478.html">
+    <title>送迎バスの子ども置き去りを防止、安全装置のガイドラインを作成へ　国交省</title>
+    <link>https://response.jp/article/2022/10/04/362478.html</link>
+    <dc:date>2022-10-03T21:45:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362477.html">
+    <title>インタークーラーって何に効果があるのか？～カスタムHOW TO～</title>
+    <link>https://response.jp/article/2022/10/04/362477.html</link>
+    <dc:date>2022-10-03T21:30:05Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/04/362476.html">
+    <title>【週末ニュースランキング】GT-R と ランボルギーニ、スクープ記事連発</title>
+    <link>https://response.jp/article/2022/10/04/362476.html</link>
+    <dc:date>2022-10-03T21:15:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/03/362475.html">
+    <title>昭和を感じるイラスト仕立ての初代＆2代目『クラウン』に心温まる【懐かしのカーカタログ】</title>
+    <link>https://response.jp/article/2022/10/03/362475.html</link>
+    <dc:date>2022-10-03T12:30:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/03/362474.html">
+    <title>初代ローレルの美しいラインを生み出したデザイナーとモデラーが語らう…ローレルC30を語る会2022</title>
+    <link>https://response.jp/article/2022/10/03/362474.html</link>
+    <dc:date>2022-10-03T12:15:03Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/03/362473.html">
+    <title>設営1分以内、ハードシェルタイプのルーフトップテント登場　THULE</title>
+    <link>https://response.jp/article/2022/10/03/362473.html</link>
+    <dc:date>2022-10-03T12:00:05Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/03/362472.html">
+    <title>【名古屋モーターサイクルショー2023】4月7-9日、愛知県国際展示場で開催決定</title>
+    <link>https://response.jp/article/2022/10/03/362472.html</link>
+    <dc:date>2022-10-03T11:30:05Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/03/362471.html">
+    <title>ALL関東キャンピングカーフェア初開催、群馬に60台以上が集合　10月8-9日</title>
+    <link>https://response.jp/article/2022/10/03/362471.html</link>
+    <dc:date>2022-10-03T11:15:04Z</dc:date>
+  </item>
+  <item rdf:about="https://response.jp/article/2022/10/03/362470.html">
+    <title>【スズキ スペーシアベース 新型試乗】シゴトもアソビもユーザー次第で“映える”!?…島崎七生人</title>
+    <link>https://response.jp/article/2022/10/03/362470.html</link>
+    <dc:date>2022-10-03T11:00:05Z</dc:date>
+  </item>
+</rdf:RDF>
